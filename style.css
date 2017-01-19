@@ -1,0 +1,11 @@
+.col-md-6 {
+  font-style: italic;
+  color: red;
+}
+.col-md-4 {
+  font-style: oblique;
+  color: red;
+}
+.rowheader {
+  background-color: red;
+}
